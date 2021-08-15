@@ -1,6 +1,6 @@
 # Arkanoid game
 
-2D arkanoid game in neon theme. Crashing all blocks is your goal. Each block has a destroy rate. Bonus blocks in game field glows, it give a bonus when you destroy it. Catch it for activating the bonus. If you lose all game lives and miss the ball, the game is over. Press space to make the ball start moving. 
+2D arkanoid game in neon theme. Crashing all blocks is your goal. There are indestructible blocks, they works like walls. Others blocks have a destroy rate. Bonus blocks in game field has question marke, it give a bonus when you destroy it. Catch it for activating the bonus. If you miss the ball, the game is over. Press space to make the ball start moving. 
 
 # Getting Started
 
